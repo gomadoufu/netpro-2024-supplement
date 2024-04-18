@@ -1,4 +1,4 @@
-public class App {
+public class Application {
     public static void main(String[] args) throws Exception {
         var integer = 10;
         var doubleValue = 10.0;
@@ -9,7 +9,7 @@ public class App {
             System.out.println(string);
         }
 
-        var app = new App();
+        var app = new Application();
 
         System.out.println(formatterPatternSwitch(integer));
         System.out.println(formatterPatternSwitch(doubleValue));
