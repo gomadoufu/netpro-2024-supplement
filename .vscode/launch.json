@@ -1,28 +1,91 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.0",
-    "configurations": [
-        {
-            "type": "java",
-            "name": "Current File",
-            "request": "launch",
-            "mainClass": "${file}"
-        },
-        {
-            "type": "java",
-            "name": "Application",
-            "request": "launch",
-            "mainClass": "Application",
-            "projectName": "netpro-2024-supplement_59f0a2ad"
-        },
-        {
-            "type": "java",
-            "name": "CharAtExample",
-            "request": "launch",
-            "mainClass": "CharAtExample",
-            "projectName": "netpro-2024-supplement_59f0a2ad"
-        }
-    ]
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "PracticeClient",
+      "request": "launch",
+      "mainClass": "PracticeClient",
+      "projectName": "netpro-2024-supplement_59f0a2ad"
+    },
+    {
+      "type": "java",
+      "name": "PracticeServer",
+      "request": "launch",
+      "mainClass": "PracticeServer",
+      "projectName": "netpro-2024-supplement_59f0a2ad"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "netpro-2024-supplement_59f0a2ad"
+    },
+    {
+      "type": "java",
+      "name": "ClassA",
+      "request": "launch",
+      "mainClass": "ClassA",
+      "projectName": "netpro-2024-supplement_59f0a2ad"
+    },
+    {
+      "type": "java",
+      "name": "XmasServer",
+      "request": "launch",
+      "mainClass": "XmasServer",
+      "projectName": "netpro-2024-supplement_59f0a2ad"
+    },
+    {
+      "type": "java",
+      "name": "BirthDayTCPClient",
+      "request": "launch",
+      "mainClass": "BirthDayTCPClient",
+      "projectName": "netpro-2024-supplement_59f0a2ad"
+    },
+    {
+      "type": "java",
+      "name": "BirthDayTCPServ",
+      "request": "launch",
+      "mainClass": "BirthDayTCPServ",
+      "projectName": "netpro-2024-supplement_59f0a2ad"
+    },
+    {
+      "type": "java",
+      "name": "XmasTCPServ",
+      "request": "launch",
+      "mainClass": "XmasTCPServ",
+      "projectName": "netpro-2024-supplement_59f0a2ad"
+    },
+    {
+      "type": "java",
+      "name": "XmasTCPClient",
+      "request": "launch",
+      "mainClass": "XmasTCPClient",
+      "projectName": "netpro-2024-supplement_59f0a2ad"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Application",
+      "request": "launch",
+      "mainClass": "Application",
+      "projectName": "netpro-2024-supplement_59f0a2ad"
+    },
+    {
+      "type": "java",
+      "name": "CharAtExample",
+      "request": "launch",
+      "mainClass": "CharAtExample",
+      "projectName": "netpro-2024-supplement_59f0a2ad"
+    }
+  ]
 }

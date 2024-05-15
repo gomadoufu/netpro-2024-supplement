@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class App {
+public class MyArray {
     public static void main(String[] args) {
         // Create an ArrayList to store integers
         ArrayList<Integer> numbers = new ArrayList<>();
